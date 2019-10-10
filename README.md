@@ -6,4 +6,4 @@ it also supports to order .
 it has diff option in menu bar like login ,cart , order  
 in cart we can see selected products and in order option  we can see ordered product.
 it is basically database oriented project so , for this all operation we need to create database 
-all detail about database you can see in store.sql file
+all information about database you can see in store.sql file
